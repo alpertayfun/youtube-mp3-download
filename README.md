@@ -1,6 +1,6 @@
 # youtube mp3 downloader via command line
 
-ipdata has the following available options:
+youtube mp3 download has the following available options:
 
 ```bash
 Usage: node index.js [options]
