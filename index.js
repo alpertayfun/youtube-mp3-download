@@ -3,7 +3,7 @@
 const { Command } = require('commander');
 const program = new Command();
 var options = {escape:true,prettyPrint:true,xmlHeader:{standalone:true}};
-var YoutubeMp3Downloader = require("youtube-mp3-downloader");
+var YoutubeMp3Downloader = require('./lib/YoutubeMp3Downloader');
 
 program.version('0.0.1');
 

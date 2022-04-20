@@ -1,6 +1,10 @@
 {
   "dependencies": {
+    "async": "^3.2.3",
     "commander": "^9.1.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "progress-stream": "^2.0.0",
+    "sanitize-filename": "^1.6.3",
     "youtube-mp3-downloader": "^0.7.10"
   },
   "name": "ytdownloader",
@@ -11,5 +15,8 @@
   },
   "author": "alper tayfun",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "bin": {
+    "youtube-mp3-download": "index.js"
+  }
 }
