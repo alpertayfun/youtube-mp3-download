@@ -8,7 +8,7 @@
     "youtube-mp3-downloader": "^0.7.10"
   },
   "name": "ytdownloader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,16 @@
   "description": "",
   "bin": {
     "ytdownloader": "index.js"
-  }
+  },
+  "keywords": [
+    "node",
+    "video",
+    "mp3",
+    "youtube",
+    "download",
+    "downloader",
+    "information",
+    "cli",
+    "commander"
+  ]
 }

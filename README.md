@@ -3,7 +3,7 @@
 youtube mp3 download has the following available options:
 
 ```bash
-Usage: node index.js [options]
+Usage: ytdownloader index.js [options]
 
 Options:
   -V, --version             output the version number
