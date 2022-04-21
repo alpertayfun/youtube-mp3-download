@@ -13,7 +13,6 @@ program
 
 program.parse(process.argv);
 
-console.log("id : " + program._optionValues.id);
 
 
 if(program._optionValues.hasOwnProperty("id")){
